@@ -1,12 +1,12 @@
 {
-    "version": "0.9.0",
+    "version": "2022.09.23",
     "description": "Language server for zig.",
     "homepage": "https://github.com/zigtools/zls",
     "license": "MIT",
     "architecture": {
         "64bit": {
             "url": "https://zig.pm/zls/downloads/x86_64-windows/bin/zls.exe",
-            "hash": "70d6a62ebba80736db65481a96ee3bc429e711a5d70188555e8e038a99d026e3",
+            "hash": "371dcb4c7bd1c5939a328c36e0f737a9dc381aa10ad890b1affbba7e90374d8f",
             "extract_dir": "bin"
         },
     },
