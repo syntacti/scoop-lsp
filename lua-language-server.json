@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/sumneko/lua-language-server/releases/download/3.5.6/lua-language-server-3.5.6-win32-x64.zip",
-            "hash": "5b8e50fa6b5d10c1540face575b83745b58df03382700b095549fde1ba3ca7b6"
+            "hash": "839bde963b969a2abbd1a754b5593605bda181734ff90dbb07f7ea8f31893566"
         }
     },
     "bin": "bin/lua-language-server.exe",
