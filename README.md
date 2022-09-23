@@ -1,1 +1,2 @@
-# scoop-treesitter
+# scoop-lsp
+easily install lsp in Windows
