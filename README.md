@@ -2,7 +2,7 @@
 easily install lsp in Windows
 
 
-[ ] Lua
-[ ] Odin
-[ ] D
-[ ] Zig
+- [ ] Lua
+- [ ] Odin
+- [ ] D
+- [ ] Zig
