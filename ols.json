@@ -1,1 +1,25 @@
-
+{
+    "version": "10.28.2022",
+    "description": "Language server for Odin",
+    "homepage": "https://github.com/DanielGavin/ols",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/DanielGavin/ols/releases/download/nightly/ols-x86_64-pc-windows-msvc.exe",
+            "hash": "7b07a414980c9c9ec427b776cb99a8c9dacd5d6f90478d45453b32e58ce36125",
+            "extract_dir": "ols_nightly_windows\\ols-nightly"
+        }
+    },
+    "bin": "ols.exe",
+    "checkver": {
+        "github": "https://github.com/DanielGavin/ols"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/DanielGavin/ols/releases/download/$version/ols-x86_64-pc-windows-msvc-installer.exe",
+                "extract_dir": "ols_$underscoreVersion_windows\\ols-$version"
+            }
+        }
+    }
+}
