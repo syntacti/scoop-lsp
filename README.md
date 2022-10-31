@@ -6,3 +6,4 @@ easily install lsp in Windows
 - [ ] Odin
 - [ ] D
 - [x] Zig
+- [x] Taplo (Toml)

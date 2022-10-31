@@ -1,0 +1,16 @@
+{
+    "version": "0.8.0",
+    "description": " A TOML toolkit written in Rust ",
+    "homepage": "https://github.com/tamasfe/taplo",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/tamasfe/taplo/releases/download/0.8.0/taplo-full-windows-x86_64.zip",
+            "hash": "5b8e50fa6b5d10c1540face575b83745b58df03382700b095549fde1ba3ca7b6"
+        }
+    },
+    "bin": "taplo.exe",
+    "checkver": {
+"github": "https://github.com/tamasfe/taplo"
+    }
+}
