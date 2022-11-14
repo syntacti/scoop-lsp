@@ -3,7 +3,7 @@ easily install lsp in Windows
 
 
 - [ ] Lua
-- [ ] Odin
+- [x] Odin
 - [ ] D
 - [x] Zig
 - [x] Taplo (Toml)
