@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/tamasfe/taplo/releases/download/0.8.0/taplo-full-windows-x86_64.zip",
-            "hash": "5b8e50fa6b5d10c1540face575b83745b58df03382700b095549fde1ba3ca7b6"
+            "hash": "ceb6d0c33515676f480542a1360c6f7935722f9e229546b1afbe73079a3248f9"
         }
     },
     "bin": "taplo.exe",
