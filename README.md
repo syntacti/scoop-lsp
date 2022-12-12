@@ -2,7 +2,7 @@
 easily install lsp in Windows
 
 
-- [ ] Lua
+- [x] Lua
 - [x] Odin
 - [x] D
 - [x] Zig
