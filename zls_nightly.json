@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://zig.pm/zls/downloads/x86_64-windows/bin/zls.exe",
-            "hash": "ae7681076bcc79c538bfb1462cb281f266e49b17664808b7845a6225629df248",
+            "hash": "55338bf4bb31fb3f7fe2af30a1e35f6c04df831ce0114902df4eabb629485c02",
             "extract_dir": "bin"
         },
     },
