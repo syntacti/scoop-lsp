@@ -1,5 +1,5 @@
 {
-    "version": "2023.01.15",
+    "version": "2023.01.18",
     "description": "Language server for zig.",
     "homepage": "https://github.com/zigtools/zls",
     "license": "MIT",
